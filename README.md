@@ -1,1 +1,1 @@
-My first readme
+Learning Software Engineer with ALX 
